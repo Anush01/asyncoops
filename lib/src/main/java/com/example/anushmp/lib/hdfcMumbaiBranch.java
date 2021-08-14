@@ -10,8 +10,8 @@ public class hdfcMumbaiBranch extends hdfcbank{
 
         hdfcbank mumbaibranch = new hdfcbank();
 
-        System.out.println("what do you want to do today? Enter 1 to deposit" +
-                " Enter 2 to withdraw money, Enter 3 to show balance, Enter 4" +
+        System.out.println("what do you want to do today? Enter 1 to deposit\n" +
+                " Enter 2 to withdraw money, Enter 3 to show balance, Enter 4\n" +
                 " to show account details. Thank you! ");
 
         int input = 4;
